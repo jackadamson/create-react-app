@@ -20,6 +20,6 @@ npx create-next-app PROJECTNAME --example https://github.com/jackadamson/create-
 Install it and run:
 
 ```sh
-npm install
-npm start
+yarn install
+yarn start
 ```
